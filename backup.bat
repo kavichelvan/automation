@@ -1,0 +1,1 @@
+copy C:\folder_in\*.* C:\folder_out

@@ -1,0 +1,3 @@
+C:\Users:\674141> move /Y "C:\folder_in\*.*" "C:\folder_out"
+
+copy C:\folder_in\*.* C:\folder_out
